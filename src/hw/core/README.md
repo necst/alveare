@@ -2,7 +2,7 @@
 
 Folder that contains all Alveare tile and core files and a [folder](data_types/README.md) for utility packages of data types and generics
 
-# Current Hierarchy of files (last update 14/11/2019)
+# Current Hierarchy of files
 
 ## Tile
  
